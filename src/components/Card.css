@@ -1,0 +1,28 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 250px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+ 
+  }
+  
+  .card h2 {
+    margin-bottom: 8px;
+    color: #00ed4f;
+  }
+  
+  .card p {
+    margin: 0;
+    
+    color: #726d6d;
+  }
+  .card img{
+    border-radius: 50%;
+  }
+  .heading{
+    display: flex;
+    justify-content: space-between;
+  }
